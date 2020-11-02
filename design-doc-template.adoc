@@ -35,6 +35,11 @@
 
 === Other Interested Projects
 
+//=== Security Considerations
+////
+Please mention any security aspects associated with your feature.
+////
+
 == Requirements
 
 === Hard Requirements
